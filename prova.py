@@ -19,10 +19,13 @@ event = {
 
 contest= { }
 
-event_handler(event,contest)
+resp = event_handler(event,contest)
 
-with open('event.json', 'w') as outfile1:
+""" with open('event.json', 'w') as outfile1:
     json.dump(event, outfile1, indent=4)
 
 with open('contest.json', 'w') as outfile2:
-    json.dump(contest, outfile2, indent=4)    
+    json.dump(contest, outfile2, indent=4)    """ 
+
+with open('resp.json', 'w') as outfile3:
+    json.dump(resp, outfile3, indent=4)      
