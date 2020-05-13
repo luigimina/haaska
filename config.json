@@ -1,6 +1,6 @@
 {
   "url": "http://localhost:8123/api",
-  "bearer_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJiY2I3YjA3MTRmOWQ0MmQ5YjRkYjI2ODZhNWNiNDJhZSIsImlhdCI6MTU4OTE0NTEwNywiZXhwIjoxOTA0NTA1MTA3fQ.brrp_1yuzcox_w3yWu5791uKwTInlJIMN6Q6unO0jXI",
+  "bearer_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJhNDEzMTczMDE5ZmI0NTY0YjUxZWQzNGNlZGQ2MmQyZSIsImlhdCI6MTU4OTM5NzM4MSwiZXhwIjoxOTA0NzU3MzgxfQ.t41grKw8_MlZa_DDFLCkD_kxaqgi_VARS6vCwKVtfRU",
   "debug": false,
   "ssl_verify": false,
   "ssl_client": []
