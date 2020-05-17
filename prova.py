@@ -1,21 +1,11 @@
 from haaska import HomeAssistant, Configuration, event_handler
 import json
 
-event = {
-  "directive": {
-    "header": {
-      "namespace": "Alexa.Discovery",
-      "name": "Discover",
-      "payloadVersion": "3",
-      "messageId": "1bd5d003-31b9-476f-ad03-71d471922820"
-    },
-    "payload": {
-      "scope": {
-        "type": "BearerToken"
-      }
-    }
-  }
-}
+#nomefile='./json/Discovery.request.json'
+#nomefile='./json/ModeController.SetMode.request.json'
+nomefile='./json/PowerController.TurnOn.request.json'
+with open(nomefile, 'r') as infile:
+    event=json.load(infile)  
 
 contest= { }
 
@@ -27,5 +17,5 @@ resp = event_handler(event,contest)
 with open('contest.json', 'w') as outfile2:
     json.dump(contest, outfile2, indent=4)    """ 
 
-with open('resp.json', 'w') as outfile3:
+with open('./json/resp.json', 'w') as outfile3:
     json.dump(resp, outfile3, indent=4)      
