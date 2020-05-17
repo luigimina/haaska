@@ -1,0 +1,7 @@
+{
+  "url": "https://bifurcate-zebu-7981.dataplicity.io/api",
+  "bearer_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJiODZkMGUyMmZhZjU0NmQ2YTA0MTg4NjU2MDQxNDUwMSIsImlhdCI6MTU1NDY2MzAwNCwiZXhwIjoxODcwMDIzMDA0fQ.d1G6uGFGqiNLHDyYBwVlC4sFZAp7CdIP8MHyUmJMQDU",
+  "debug": false,
+  "ssl_verify": true,
+  "ssl_client": []
+}

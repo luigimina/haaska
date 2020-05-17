@@ -97,7 +97,7 @@ ENV/
 # mkdocs documentation
 /site
 
-config/*
+#config/*
 build
 .DS_Store
 haaska.zip
