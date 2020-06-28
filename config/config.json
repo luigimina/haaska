@@ -1,6 +1,6 @@
 {
-  "url": "https://bifurcate-zebu-7981.dataplicity.io/api",
-  "bearer_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJiODZkMGUyMmZhZjU0NmQ2YTA0MTg4NjU2MDQxNDUwMSIsImlhdCI6MTU1NDY2MzAwNCwiZXhwIjoxODcwMDIzMDA0fQ.d1G6uGFGqiNLHDyYBwVlC4sFZAp7CdIP8MHyUmJMQDU",
+  "url": "https://unprofessed-clam-5193.dataplicity.io/api",
+  "bearer_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiIyOGYxODRiY2Y4Njg0YjM2ODJhOWJmYTY5ODU5YWViNyIsImlhdCI6MTU5MDg1NTM1MSwiZXhwIjoxOTA2MjE1MzUxfQ.i3bkSfYILSKoA-Q_hIJRifV-ShuGpaU1pwEN_bcT0j0",
   "debug": false,
   "ssl_verify": true,
   "ssl_client": []
